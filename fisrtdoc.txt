@@ -1,1 +1,2 @@
-The begining
+The begining.
+I am a DevOps Engineer and I'm on a real time face tracking project
